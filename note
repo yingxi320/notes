@@ -1,0 +1,6 @@
+[install bash_it to make bash beautiful]
+apt-get install git
+git clone http://github.com/revans/bash-it.git ~/.bash_it
+~/.bash_it/install.sh
+
+
