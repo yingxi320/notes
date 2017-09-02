@@ -2,5 +2,9 @@
 apt-get install git
 git clone http://github.com/revans/bash-it.git ~/.bash_it
 ~/.bash_it/install.sh
-
+[github infomation]
+email: 2693757672@qq.com
+username: yingxi320
+passwd: abc19931008
+url: http://github.com/yingxi320
 
