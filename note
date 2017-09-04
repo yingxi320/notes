@@ -7,4 +7,5 @@ email: 2693757672@qq.com
 username: yingxi320
 passwd: abc19931008
 url: http://github.com/yingxi320
-
+[bazel install guide]
+add deb [arch=amd64] http://storage.googleapis.com/bazel-apt stable jdk1.8 to /etc/apt/sources.list.d/bazel.list
